@@ -236,3 +236,5 @@ SA : https://docs.google.com/spreadsheets/d/1JBQ1iAl9BINJq8oehd-nAWLhO557RTj0O0C
 |----|----|----|----|----|----|----|
 |FE(팀장)|FE|FE|BE(부팀장)|BE|BE|Designer|
 |[:link:](https://github.com/merrybmc)|[:link:](https://github.com/ksu930)|[:link:](https://github.com/superrookie8)|[:link:](https://github.com/Whylano)|[:link:](https://github.com/jjw0611)|[:link:](https://github.com/kyujae-Jung)||
+
+<br/>
